@@ -1,6 +1,8 @@
 # GD Save Tools
  Save related tools for geometry dash
 
+> I PLAN ON RE-WRITING THESE TOOLS IN THE NEAR FUTURE. UNTIL THEN, I AM ENDING SUPPORT
+
  ## What is in this repository?
 
  This repository contains all of the save related tools that i have created all in one place. these tools can range from fixes to softlocks to useless tools to do fun things with your save.
